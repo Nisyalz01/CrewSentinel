@@ -1,4 +1,3 @@
-<!-- fallback_CrewSentinel_20260812220632_39117 -->
 
 # CrewSentinel: Autonomous CrewSentinel Service implementing Intelligent Automated incident response with enterprise-grade Multi-tenancy support capabilities Implementation
 > Advanced python solution leveraging modern architecture patterns and cutting-edge technology.
